@@ -1,0 +1,3 @@
+[submodule "repo-no-master-branch"]
+	path = repo-no-master-branch
+	url = https://github.com/cachito-testing/repo-no-master-branch.git
